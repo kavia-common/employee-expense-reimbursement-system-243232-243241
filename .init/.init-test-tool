@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/employee-expense-reimbursement-system-243232-243241/frontend_react_app"
+}
